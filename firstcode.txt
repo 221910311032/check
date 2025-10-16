@@ -2,3 +2,6 @@ Hello world !!!
 take input from someone
 values will be will be three
 for testing
+
+submit this data in database
+clear
